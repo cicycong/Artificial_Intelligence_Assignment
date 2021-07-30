@@ -6,7 +6,6 @@
 
 # ### Q1
 
-# In[104]:
 
 
 from experta import *
